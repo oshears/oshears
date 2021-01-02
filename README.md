@@ -1,16 +1,21 @@
-### Hi there 👋
+# Career Profile
 
-<!--
-**oshears/oshears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Osaze Shears is passionate about many engineering and computational concepts. These include embedded systems, application-specific integrated circuits (ASICs), field-programmable gate arrays (FPGAs), and microprocessor technologies. Osaze spends his free time tutoring other students who are interested in learning to become better computer scientists and engineers to benefit the greater society.
 
-Here are some ideas to get you started:
+Osaze is currently a PhD student at Virginia Tech conducting research under the Multifunctional Integrated Circuits and Systems (MICS) lab. His research interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Spiking Neural Networks
+- Hardware Acceleration
+- SoC Design with ASICs and FPGAs
+- Deep Learning
+- Edge Computing
+
+-------
+
+# My Website
+[oshears.github.io](https://oshears.github.io)
+
+-------
+
+# My YouTube Channel
+https://www.youtube.com/user/yozecool/videos
