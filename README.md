@@ -12,6 +12,11 @@ Osaze is currently a PhD student at Virginia Tech conducting research under the 
 
 -------
 
+# Collaborations
+Osaze is actively seeking opportunities to collaborate on FPGA and ASIC design projects related to hardware acceleration, machine learning and edge computing. Feel free to reach out by emailing oshears@vt.edu.
+
+-------
+
 # My Website
 [oshears.github.io](https://oshears.github.io)
 
@@ -20,5 +25,4 @@ Osaze is currently a PhD student at Virginia Tech conducting research under the 
 # My YouTube Channel
 https://www.youtube.com/user/yozecool/videos
 
-# Collaborations
-Osaze is actively seeking opportunities to collaborate on FPGA and ASIC design projects related to hardware acceleration, machine learning and edge computing. Feel free to reach out by emailing oshears@vt.edu.
+
