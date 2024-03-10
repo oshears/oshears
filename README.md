@@ -4,16 +4,12 @@ Osaze Shears is passionate about many engineering and computational concepts. Th
 
 Osaze is currently a research engineer at the University of Southern California's (USC) Information Sciences Institute (ISI) in Arlington, VA.
 
-- Spiking Neural Networks
-- Hardware Acceleration
-- SoC Design with ASICs and FPGAs
-- Deep Learning
-- Edge Computing
+Osaze also works on Game Design in his free time and is working to develop multiplayer 3D games under his studio: OS Games.
 
 -------
 
 # Collaborations
-Osaze is actively seeking opportunities to collaborate on FPGA and ASIC design projects related to hardware acceleration, machine learning and edge computing. Feel free to reach out by emailing oshears@vt.edu.
+Osaze is actively seeking opportunities to collaborate on Game Design projects related to 3D, multiplayer, and . Feel free to reach out by emailing [yoze15@gmail.com](mailto:yoze15@gmail.com).
 
 -------
 
