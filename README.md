@@ -9,7 +9,7 @@ Osaze also works on Game Design in his free time and is working to develop multi
 -------
 
 # Collaborations
-Osaze is actively seeking opportunities to collaborate on Game Design projects related to 3D, multiplayer, and . Feel free to reach out by emailing [yoze15@gmail.com](mailto:yoze15@gmail.com).
+Osaze is actively seeking opportunities to collaborate on game design projects related to 3D, multiplayer, and . Feel free to reach out by emailing [yoze15@gmail.com](mailto:yoze15@gmail.com).
 
 -------
 
