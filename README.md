@@ -4,7 +4,7 @@ Osaze Shears is passionate about many engineering and computational concepts. Th
 
 Osaze is currently a research engineer at the University of Southern California's (USC) Information Sciences Institute (ISI) in Arlington, VA.
 
-Osaze also works on Game Design in his free time and is working to develop multiplayer 3D games under his studio: OS Games.
+Osaze also works on Game Design in his free time and is working to develop multiplayer 3D games under his studio: [OSGames](https://oshears.github.io/osgames/).
 
 -------
 
