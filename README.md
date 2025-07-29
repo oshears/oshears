@@ -19,6 +19,6 @@ Osaze is actively seeking opportunities to collaborate on game design projects r
 -------
 
 # My YouTube Channel
-https://www.youtube.com/user/yozecool/videos
+https://www.youtube.com/@osazeshears
 
 
