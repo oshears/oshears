@@ -7,7 +7,10 @@ In my free time I work on game development projects with other artists and devs 
 
 -------
 
-# FPGA Projects 💻
+# FPGA-ASIC Projects 💻
+
+My FPGA-ASIC design projects include the following:
+
 - [BladeRF Delayed Feedback Reservoir (DFR) Accelerator](https://github.com/oshears/bladerf_dfr_accelerator): A project to implement a delayed feedback reservoir (DFR) on the bladeRF 2.0 micro software defined radio (SDR) FPGA.
 - [Hybrid Delayed Feedback Reservoir (DFR) FPGA Bridge](https://github.com/oshears/hybrid_dfr_system): A project that leverages a heterogenous FPGA-ASIC architecture to implement a hardware accelerated and energy efficient delayed feedback reservoir (DFR).
 - [FPGA Spiking Neural Network (SNN)](https://github.com/oshears/SNN-FPGA-Implementation/tree/master): A simple implementation of a spiking neural network with FPGA synthesizable RTL.
@@ -16,7 +19,10 @@ In my free time I work on game development projects with other artists and devs 
  - [Neuromorphic ASIC Vision](https://github.com/oshears/neuromorphic_asic_vision): A set of scripts to feed video and images to the Neuromorphic ASIC
  - [Neuromorphic ASIC PetaLinux](https://github.com/oshears/neuromorphic_asic_bridge_petalinux): The PetaLinux source files for the Neuromorphic ASIC Bridge project
 
-# Experienced Open-Source Projects
+# Experienced Open-Source Projects 🧠
+
+I have had experience working with the following open-source hardware development projects: 
+
 - [OpenFPGA](https://github.com/oshears/OpenFPGA): Used to create and analyze FPGA architectures and bitstreams for custom architectures.
 - [BladeRF](https://github.com/oshears/bladeRF): An open-source software defined radio (SDR).
 - [Project X-Ray](https://github.com/f4pga/prjxray): Reverse engineering Xilinx Series 7 bitstreams.
@@ -26,6 +32,9 @@ In my free time I work on game development projects with other artists and devs 
 - [CocoTB](https://github.com/cocotb/cocotb): A Python-based RTL verification framework using the Verilog programming interface (VPI).
 
 # Game Development Projects 🎮
+
+My game development projects include:
+
 - [Synthicate](https://github.com/oshears/Synthicate): A cyberpunk adaptation of Settlers of Catan. [Check it out on itch here!](https://oshears.itch.io/synthicate)
 - [Lonnie's Fish Tank](https://oshears.itch.io/lonnies-fishtank): A cozy fish tank simulator game where players live in an underwater world!
  - [Lonnie's FishTank Development Logs](https://www.youtube.com/playlist?list=PLbVBSGvd5C8L77ZwYOqYfpausbkzptVR-)
@@ -37,7 +46,7 @@ In my free time I work on game development projects with other artists and devs 
 -------
 
 # Collaborations 🤝🏽
-Osaze is actively seeking opportunities to collaborate on game design projects related to 3D, multiplayer, and virtual reality. Feel free to reach out by emailing [oyshears@gmail.com](mailto:oyshears@gmail.com).
+I am actively seeking opportunities to collaborate on game design projects related to 3D, multiplayer, and virtual reality! Feel free to reach out by emailing [oyshears@gmail.com](mailto:oyshears@gmail.com).
 
 -------
 
