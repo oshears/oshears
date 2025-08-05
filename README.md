@@ -10,22 +10,20 @@ In my free time I work on game development projects with other artists and devs 
 # FPGA Projects 💻
 - 
 
-# Game Development Projects 🎮
-- [Synthicate](https://github.com/oshears/Synthicate): A cyberpunk adaptation of Settlers of Catan.
 
-<iframe frameborder="0" src="https://itch.io/embed/2585864" width="552" height="167"><a href="https://oshears.itch.io/synthicate">Synthicate by Osaze Shears</a></iframe>
-
-<iframe frameborder="0" src="https://itch.io/embed/3287325" width="552" height="167"><a href="https://oshears.itch.io/lonnies-fishtank">Lonnies Fishtank by Osaze Shears</a></iframe>
-
-<iframe frameborder="0" src="https://itch.io/embed/2697391" width="552" height="167"><a href="https://oshears.itch.io/skeleton-hell">Skeleton Hell by Osaze Shears</a></iframe>
-
- 
-- [OSGames Board Game Unity Package](https://github.com/oshears/boardgame/): A Unity package for creating a generic turn-based board game style game. Developed for my project: Primordial - a video game adaptation of the Nemesis board game. 
-- [OSGames Unity Utilities](https://github.com/oshears/com.osgames.utilities): A Unity package containing utility scripts for automating common operations across different systems.
 
 # Experienced Open-Source Projects
 - [OpenFPGA](https://github.com/oshears/OpenFPGA): Used to create and analyze FPGA architectures and bitstreams for custom architectures.
 - 
+
+# Game Development Projects 🎮
+- [Synthicate](https://github.com/oshears/Synthicate): A cyberpunk adaptation of Settlers of Catan. [Check it out on itch here!](https://oshears.itch.io/synthicate)
+- [Lonnie's Fish Tank](https://oshears.itch.io/lonnies-fishtank): A cozy fish tank simulator game where players live in an underwater world!
+ - [Lonnie's FishTank Development Logs](https://www.youtube.com/playlist?list=PLbVBSGvd5C8L77ZwYOqYfpausbkzptVR-)
+- [Skeleton Hell](https://store.steampowered.com/app/3082170/Skeleton_Hell/): A co-op comedy horror game feature unique skeleton bone based mechanics. [Check it out on steam here!](https://store.steampowered.com/app/3082170/Skeleton_Hell/)
+ - [Skeleton Hell Development Logs](https://www.youtube.com/playlist?list=PLbVBSGvd5C8JeKJ4HVEQfk0pMdNYdzTyy)
+- [OSGames Board Game Unity Package](https://github.com/oshears/boardgame/): A Unity package for creating a generic turn-based board game style game. Developed for my project: Primordial - a video game adaptation of the Nemesis board game. 
+- [OSGames Unity Utilities](https://github.com/oshears/com.osgames.utilities): A Unity package containing utility scripts for automating common operations across different systems.
 
 -------
 
