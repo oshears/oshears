@@ -8,13 +8,22 @@ In my free time I work on game development projects with other artists and devs 
 -------
 
 # FPGA Projects 💻
-- 
-
-
+- [BladeRF Delayed Feedback Reservoir (DFR) Accelerator](https://github.com/oshears/bladerf_dfr_accelerator): A project to implement a delayed feedback reservoir (DFR) on the bladeRF 2.0 micro software defined radio (SDR) FPGA.
+- [Hybrid Delayed Feedback Reservoir (DFR) FPGA Bridge](https://github.com/oshears/hybrid_dfr_system): A project that leverages a heterogenous FPGA-ASIC architecture to implement a hardware accelerated and energy efficient delayed feedback reservoir (DFR).
+- [FPGA Spiking Neural Network (SNN)](https://github.com/oshears/SNN-FPGA-Implementation/tree/master): A simple implementation of a spiking neural network with FPGA synthesizable RTL.
+- [FPGA Friendly SNN Models](https://github.com/oshears/fpga_snn_models): Python implementations of Spiking Neural Networks (SNNs) that have been designed for operation on FPGA.
+- [Neuromorphic ASIC Bridge](https://github.com/oshears/neuromorphic_asic_bridge): The HDL FPGA Module to interface with the MICS Neuromorphic Reservoir Computing ASIC
+ - [Neuromorphic ASIC Vision](https://github.com/oshears/neuromorphic_asic_vision): A set of scripts to feed video and images to the Neuromorphic ASIC
+ - [Neuromorphic ASIC PetaLinux](https://github.com/oshears/neuromorphic_asic_bridge_petalinux): The PetaLinux source files for the Neuromorphic ASIC Bridge project
 
 # Experienced Open-Source Projects
 - [OpenFPGA](https://github.com/oshears/OpenFPGA): Used to create and analyze FPGA architectures and bitstreams for custom architectures.
-- 
+- [BladeRF](https://github.com/oshears/bladeRF): An open-source software defined radio (SDR).
+- [Project X-Ray](https://github.com/f4pga/prjxray): Reverse engineering Xilinx Series 7 bitstreams.
+- [Embedded Scalable Platforms (ESP)](https://github.com/sld-columbia/esp): Open-source NoC generator with an Arianne RISC-V CPU and FPGA emulation capability.
+- [Xilinx FINN](https://github.com/Xilinx/finn): A neural netork compiler for Xilinx FPGAs.
+- [RapidWright](https://github.com/Xilinx/RapidWright): A Java-based placement and routing tool for Xilinx FPGAs.
+- [CocoTB](https://github.com/cocotb/cocotb): A Python-based RTL verification framework using the Verilog programming interface (VPI).
 
 # Game Development Projects 🎮
 - [Synthicate](https://github.com/oshears/Synthicate): A cyberpunk adaptation of Settlers of Catan. [Check it out on itch here!](https://oshears.itch.io/synthicate)
@@ -24,7 +33,7 @@ In my free time I work on game development projects with other artists and devs 
  - [Skeleton Hell Development Logs](https://www.youtube.com/playlist?list=PLbVBSGvd5C8JeKJ4HVEQfk0pMdNYdzTyy)
 - [OSGames Board Game Unity Package](https://github.com/oshears/boardgame/): A Unity package for creating a generic turn-based board game style game. Developed for my project: Primordial - a video game adaptation of the Nemesis board game. 
 - [OSGames Unity Utilities](https://github.com/oshears/com.osgames.utilities): A Unity package containing utility scripts for automating common operations across different systems.
-
+- [Settlers of Catan](https://github.com/oshears/Settlers-of-Catan): A simple Unity adaptation of the board game, Settlers of Catan.
 -------
 
 # Collaborations 🤝🏽
