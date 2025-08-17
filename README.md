@@ -1,6 +1,6 @@
 # About Osaze Shears 😎
 
-Hi! I am a research computer engineer at University of Southern California's (USC) Information Sciences Institute (ISI) in Arlington, VA. I am is passionate about many engineering and computational concepts including embedded systems, application-specific integrated circuits (ASICs), field-programmable gate arrays (FPGAs), and microprocessor technologies.
+Hi! I am a research computer engineer at University of Southern California's (USC) Information Sciences Institute (ISI) in Arlington, VA. I am is passionate about many engineering and computational concepts including embedded systems, application-specific integrated circuits (ASICs), field-programmable gate arrays (FPGAs), and microprocessor technologies. Applications that interest me range from interactive technologies (Virtual and Mixed Reality) to bioinformatics!
 
 
 In my free time I work on game development projects with other artists and devs to develop multiplayer, VR, and 3D games. Updates are posted to my studio website: [OSGames](https://oshears.github.io/osgames/).
