@@ -37,7 +37,7 @@ I have had experience working with the following open-source hardware developmen
 My game development projects include:
 
 - [Synthicate](https://github.com/oshears/Synthicate): A cyberpunk adaptation of Settlers of Catan. [Check it out on itch here!](https://oshears.itch.io/synthicate)
-- [Lonnie's Fish Tank](https://oshears.itch.io/lonnies-fishtank): A cozy fish tank simulator game where players live in an underwater world!
+- [Lonnie's Fish Tank](https://oshears.itch.io/lonnies-fishtank): A cozy fish tank simulator game where players live in an underwater world! [Check it out on Itch here!](https://oshears.itch.io/lonnies-fishtank)
    - [Lonnie's FishTank Development Logs](https://www.youtube.com/playlist?list=PLbVBSGvd5C8L77ZwYOqYfpausbkzptVR-)
 - [Skeleton Hell](https://store.steampowered.com/app/3082170/Skeleton_Hell/): A co-op comedy horror game feature unique skeleton bone based mechanics. [Check it out on steam here!](https://store.steampowered.com/app/3082170/Skeleton_Hell/)
    - [Skeleton Hell Development Logs](https://www.youtube.com/playlist?list=PLbVBSGvd5C8JeKJ4HVEQfk0pMdNYdzTyy)
